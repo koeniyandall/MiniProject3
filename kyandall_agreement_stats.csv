@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,100.0,100.0,1.0,1.0,0,0,Full agreement; No vs N/A terminology settled as N/A for the no-gap project (pecanproject_pecan).
+WhyRecovered,10.0,100.0,NA,NA,9,9,Largest source of disagreement: author used one generic category for every project; validator required a specific post-gap commit or PR. Resolved by adopting evidence-limited wording.
+ActivityPattern,100.0,100.0,1.0,1.0,0,0,"Full agreement before discussion; categories applied to author summaries, so agreement reflects shared labels rather than independent re-plotting."
+Currentstatus,100.0,100.0,1.0,1.0,0,0,Full agreement; both applied the 2025-04-01 cutoff to the last GitHub commit date.
+RecentThemes,100.0,100.0,NA,NA,0,0,"Full agreement on top-two theme labels; non-categorical, so kappa not reported."
